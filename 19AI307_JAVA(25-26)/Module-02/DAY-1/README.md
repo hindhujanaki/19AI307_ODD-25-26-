@@ -1,9 +1,7 @@
-[# Ex.No:2(A) CLASS AND OBJECT
+# Ex.No:2(A) CLASS AND OBJECT
 
 ## QUESTION:
-Create a class Person with attributes name and age. Write a method greet() that prints: Hello, my name is <name> and I am <age> years old.
-
-import java.util.Scanner;
+Create a class Person with attributes name and age. Write a method greet() that prints: Hello, my name is <name> and I am <age> years ol
 
 
 ## AIM:
@@ -83,3 +81,4 @@ Thus, the Java program to implement a Class and Object using a Person class was 
 
 
 ](https://github.com/hindhujanaki/19AI307_ODD-25-26-/tree/main/19AI307_JAVA(25-26)/Module-01)
+
